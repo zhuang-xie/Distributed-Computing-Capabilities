@@ -87,6 +87,8 @@ Use the previous trained model to predict prices.  Below are the rounded predict
     24.96
     30.71
 
+Rows will be added to verification file to verify your results.
+
 ## Save the predicted data
 Save your non-rounded predicted results to /tmp/boston-data/predicted_results
 
