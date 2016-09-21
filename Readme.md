@@ -83,9 +83,9 @@ Use LinearRegressionWithSGD to train the model.
 Load the verification data set and scale the values using the previous scaler.
 Push each row into your model.  Below are the predicted rounded results I got -
 
-30.58
-24.96
-30.71
+    30.58
+    24.96
+    30.71
 
 ## Save the predicted data
 Save your non-rounded predicted results to /tmp/boston-data/predicted_results
