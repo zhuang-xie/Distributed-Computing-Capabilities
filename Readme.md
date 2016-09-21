@@ -81,7 +81,7 @@ Use LinearRegressionWithSGD to train the model.
 ## Verification
 
 Load the verification data set and scale the values using the previous scaler.
-Push each row into your model.  Below are the predicted rounded results I got -
+Use the previous trained model to predict prices.  Below are the rounded predicted results from my model -
 
     30.58
     24.96
