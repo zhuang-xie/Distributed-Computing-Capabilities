@@ -52,9 +52,9 @@ The file is a set of comma separated values (csv).  The first line contains the 
 # Implementation
 
 ## Input
-Upload the boston_house.csv and verification.csv datasets to HDFS in the following folder -
+Upload the *boston_house.csv* and *verification.csv* datasets to HDFS in the following folder -
 
-    /tmp/boston-data/boston-house.csv
+    /tmp/boston-data/
 
 
 ## The model
